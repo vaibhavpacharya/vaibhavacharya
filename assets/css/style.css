@@ -349,8 +349,8 @@ float:right;
 
 .button a {
   width: 200px;
-  padding: 12px 48px;
-  text-align: center;
+  padding: 20px 15px;
+  margin: 0 auto;
   color: white;
   border: solid 2px white;
   z-index: 1;
